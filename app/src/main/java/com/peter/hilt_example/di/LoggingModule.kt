@@ -1,8 +1,8 @@
 package com.peter.hilt_example.di
 
-import com.peter.hilt_example.data.LoggerInMemoryDataSource
 import com.peter.hilt_example.data.LoggerLocalDataSource
 import com.peter.hilt_example.data.LoggerDataSource
+import com.peter.hilt_example.data.LoggerInMemoryDataSource
 import dagger.Binds
 import dagger.Module
 import dagger.hilt.InstallIn

@@ -1,7 +1,5 @@
 package com.peter.hilt_example.data
 
-import com.peter.hilt_example.data.Log
-import com.peter.hilt_example.data.LoggerDataSource
 import java.util.LinkedList
 import javax.inject.Inject
 
